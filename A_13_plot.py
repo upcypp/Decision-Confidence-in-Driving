@@ -4,7 +4,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import os
 
-# 手动输入的混淆矩阵数据
+# 手动输入的混淆矩阵数据(数据来自A_\12\13.py)
 conf_matrix_1 = np.array([
     [36, 28, 9, 12, 15],
     [14, 36, 21, 16, 13],
